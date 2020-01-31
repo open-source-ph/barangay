@@ -9,5 +9,5 @@ Open source social network made using:
 - GraphQL
 - PostgreSQL
 - Yarn (v1.19.1)
-- React
-- Next.js
+- React (v16.12.0)
+- Next.js (v9.2.1)
