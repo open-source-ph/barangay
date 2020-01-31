@@ -8,6 +8,6 @@ Open source social network made using:
 - Firebase
 - GraphQL
 - PostgreSQL
-- Yarn
+- Yarn (v1.19.1)
 - React
 - Next.js
