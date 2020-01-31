@@ -7,3 +7,6 @@ package-lock.json
 
 # Next Files
 .next
+
+# JavaScript Server Files
+.server
