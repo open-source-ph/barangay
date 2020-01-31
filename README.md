@@ -3,7 +3,7 @@
 Open source social network made using:
 - Node.js (v12.14.1)
 - TypeScript (v3.7.5)
-- Koa
+- Koa (v2.11.0)
 - Axios
 - Firebase
 - GraphQL
