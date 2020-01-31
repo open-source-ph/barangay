@@ -1,7 +1,7 @@
 # Barangay
 
 Open source social network made using:
-- Node.js
+- Node.js (v12.14.1)
 - TypeScript
 - Koa
 - Axios
