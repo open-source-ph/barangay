@@ -1,6 +1,6 @@
-/* Node Modules */
+# Node Modules
 node_modules
 
-/* Lock Files */
+# Lock Files
 yarn.lock
 package-lock.json
