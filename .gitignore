@@ -4,3 +4,6 @@ node_modules
 # Lock Files
 yarn.lock
 package-lock.json
+
+# Next Files
+.next
