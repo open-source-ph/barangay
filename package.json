@@ -5,7 +5,5 @@
   "repository": "git@github.com:open-source-ph/barangay.git",
   "author": "BosEriko <bos.eriko@gmail.com>",
   "license": "MIT",
-  "scripts": {
-    "pull": "git clone --recurse-submodules https://github.com/open-source-ph/barangay.git"
-  }
+  "scripts": {}
 }
