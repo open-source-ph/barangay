@@ -1,0 +1,6 @@
+[submodule "server"]
+	path = server
+	url = git@github.com:open-source-ph/barangay-server.git
+[submodule "web"]
+	path = web
+	url = git@github.com:open-source-ph/barangay-web.git
