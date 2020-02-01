@@ -5,5 +5,11 @@
   "repository": "git@github.com:open-source-ph/barangay.git",
   "author": "BosEriko <bos.eriko@gmail.com>",
   "license": "MIT",
-  "scripts": {}
+  "scripts": {
+    "start: "yarn workspace web start && yarn workspace server start"
+  },
+  "workspaces": [
+    "web",
+    "server"
+  ]
 }
