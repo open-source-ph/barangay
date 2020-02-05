@@ -4,5 +4,10 @@
   "main": "index.js",
   "repository": "git@github.com:open-source-ph/barangay.git",
   "author": "BosEriko <bos.eriko@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "web",
+    "server"
+  ]
 }
